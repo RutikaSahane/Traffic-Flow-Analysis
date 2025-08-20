@@ -104,8 +104,7 @@ traffic-lane-counter/
 
 └─ output/
 
-    └─ DEMO_VIDEO_LINK.txt  # Paste demo video link here
-    
+    └─ https://drive.google.com/drive/folders/1I-6Yt0YZoYwVh4Zj0Ch8X-7hB7TRYyCq?usp=drive_link
 
 
 ## 📜 License 
