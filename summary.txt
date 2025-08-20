@@ -1,0 +1,5 @@
+ === SUMMARY ===
+ Lane 1: 659
+ Lane 2: 595
+ Lane 3: 49
+ Total vehicles: 1303
