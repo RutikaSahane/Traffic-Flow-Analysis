@@ -104,9 +104,8 @@ traffic-lane-counter/
 
 └─ output/
 
-    └─ https://drive.google.com/drive/folders/1I-6Yt0YZoYwVh4Zj0Ch8X-7hB7TRYyCq?usp=drive_link
-
-
+    └─ https://drive.google.com/drive/folders/1T42xqYU2y21nClbQymh6EchRv-esL3rA?usp=drive_link
+    
 ## 📜 License 
 
 This project is licensed under the MIT License.
